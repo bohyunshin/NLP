@@ -18,8 +18,15 @@
 - [ ] swivel
   * 논문 리뷰
   * python implementation은 정보 부족으로 보류
-- [x] weighted embedding
-  * 논문 리뷰
-  * python implementation
+- [x] sentence embedding
+  * weighted embedding
+    * 논문 리뷰
+    * python implementation
+   * skip thought vectors
+     * 논문리뷰
+     * python implementation
 - [ ] How to evaluate word embedding?
   * 공부 중
+- [ ] How to choose hyper-parameter, vector dimension in matrix factorization model?
+   * 논문리뷰
+   * python implementation
