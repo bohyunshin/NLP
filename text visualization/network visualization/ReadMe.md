@@ -25,7 +25,6 @@ d개의 문서가 있는 corpus를 상상해봅시다. 여기서 단어를 뽑�
 
 순서는 아래와 같습니다.
 
-- [ ] co-occurrence 행렬 구축하기
-- [ ] Gephi 소개
+- [X] co-occurrence 행렬 구축하기
+- [X] Gephi 소개 및 네트워크 custom 설정
 - [ ] pagerank, eigenvalue centrality 소개
-- [ ] Gephi에서 네트워크 custom 설정
