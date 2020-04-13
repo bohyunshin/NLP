@@ -2,6 +2,8 @@
 
 - [ ] text generation (language modeling)
 - [ ] text classification (마지막 hidden state의 값으로 dense vector 생성)
+  - LSTM (4.13 완료)
+  - GRU (4.13 완료)
 
 
 
