@@ -25,3 +25,6 @@ glove/glove_cython.c: In function 'void __Pyx_ExceptionSave(PyObject**, PyObject
 https://github.com/cython/cython/issues/1978
 
 이런 이슈가 있었음. 즉, 파이썬 3.7에서는 cython이 호환 안 된다는 것임. 그래서 아예 가상환경 만들고, 여기에 파이썬 3.6으로해서 해봤더니 드디어 설치가 됐다!!!!!!!
+
+### 4.27: 가상환경에서 jupyter notebook?
+anaconda도 잘
