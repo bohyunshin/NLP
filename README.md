@@ -4,5 +4,5 @@
 순서는 아래와 같습니다.
 - [ ] word embedding
 - [ ] document embedding
-- [ ] deep learning papers for nlp
+- [ ] deep learningasdf papers for nlp
 - [ ] parsing
