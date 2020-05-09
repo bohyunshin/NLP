@@ -9,12 +9,12 @@
   * python implementation
 - [ ] glove
   * 논문 리뷰
-  * python implementation: 환결 설정으로 인해 보류
+  * python implementation: ~~환결 설정으로 인해 보류~~
 - [x] fasttext
   * 논문 리뷰
   * python implementation
     * windows에서 genism 이용
-    * mac에서 facebook이 제공한 모듈 이용 (windows라서 못함)
+    * mac에서 facebook이 제공한 모듈 이용 (맥을 이용하여 간닪 성공!)
 - [ ] swivel
   * 논문 리뷰
   * python implementation은 정보 부족으로 보류
